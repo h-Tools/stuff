@@ -8,7 +8,7 @@
           "https://github.com/zippee100/stuff/blob/main/template3.png?raw=true"
         ],
         "x": 50,
-        "y": 1198
+        "y": 1196
       }
     ],
     "whitelist": [],
