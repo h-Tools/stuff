@@ -1,5 +1,4 @@
 from PIL import Image
-from colorsys import hsv_to_rgb
 image = []
 dot = 0
 line = 0
